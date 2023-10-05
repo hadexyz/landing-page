@@ -25,10 +25,16 @@ main-content {
   background-color: #1F2937;
 }
 
+.header a {
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
 .header-logo {
   font-size: 24px;
   color: #F9FAF8;
   font-weight: bolder;
+  padding: 10px;
 }
 
 .link-group {
