@@ -19,3 +19,8 @@ main-content {
   display: flex;
   justify-content: space-between;
 }
+
+.top, 
+.header {
+  background-color: #1F2937;
+}
