@@ -1,6 +1,7 @@
 * {
   margin: 0;
   padding: 0;
+  box-sizing: border-box;
 }
 body {
   min-height: 100vh;
@@ -49,4 +50,12 @@ main-content {
   display: flex;
   justify-content: center;
   align-items: center;
+}
+
+.hero-content, 
+.cards-content, 
+.quote-content, 
+.signup-content {
+  display: flex;
+  flex:1
 }
