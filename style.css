@@ -87,3 +87,21 @@ flex-container-column {
 .flex-1{
   flex: 1;
 }
+
+p {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+h2{ 
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+h3 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
