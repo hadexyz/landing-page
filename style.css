@@ -124,3 +124,7 @@ button {
   border: none;
   border-radius: .5em;
 }
+
+.cards-container {
+  flex-direction: column;
+}
