@@ -65,3 +65,10 @@ flex-container-column {
   color: #F9FAF8;
   font-weight: bolder;
 }
+
+.main-text {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  flex:1;
+}
