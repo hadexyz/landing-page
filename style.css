@@ -83,3 +83,7 @@ flex-container-column {
 .hero-content {
   display: flex;
 }
+
+.flex-1{
+  flex: 1;
+}
