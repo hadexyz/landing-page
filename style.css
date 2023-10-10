@@ -60,7 +60,7 @@ flex-container-column {
 .cards-content, 
 .quote-content, 
 .signup-content {
-  flex:1
+  flex:1;
 }
 
 #hero-main-text {
