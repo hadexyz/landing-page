@@ -113,3 +113,14 @@ h3 {
 .hero-subtext {
   color: #E5E7EB;
 }
+
+button { 
+  background-color: #3882F6;
+  padding-left: 1em;
+  padding-right: 1em;
+  padding-top:.5em;
+  padding-bottom: .5em;
+  color:#F9FAF8;
+  border: none;
+  border-radius: .5em;
+}
