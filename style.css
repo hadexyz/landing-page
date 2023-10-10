@@ -79,3 +79,7 @@ flex-container-column {
 .footer {
   padding: 1em;
 }
+
+.hero-content {
+  display: flex;
+}
