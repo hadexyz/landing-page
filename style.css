@@ -2,6 +2,7 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  text-decoration: none;
 }
 body {
   min-height: 100vh;
@@ -10,7 +11,8 @@ body {
   justify-content: space-between;
 }
 
-a{
+a, 
+p{
   text-decoration: none;
   color:inherit
 }
@@ -25,6 +27,7 @@ flex-container-column {
 .footer {
   display: flex;
   justify-content: space-around;
+  color: #F9FAF8;
 }
 
 .hero-content, 
