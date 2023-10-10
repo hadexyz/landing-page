@@ -75,3 +75,7 @@ flex-container-column {
   justify-content: space-around;
   flex:1;
 }
+
+.footer {
+  padding: 1em;
+}
