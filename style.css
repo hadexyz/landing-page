@@ -15,7 +15,7 @@ a{
   color:inherit
 }
 
-main-content {
+flex-container-column {
   display: flex;
   flex-direction: column;
   flex: 1;
