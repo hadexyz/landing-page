@@ -139,3 +139,7 @@ button {
   justify-content: center;
   gap: 18px;
 }
+
+img {
+  width: 312px;
+}
