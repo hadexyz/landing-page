@@ -115,17 +115,22 @@ h3 {
 
 .hero-subtext {
   color: #E5E7EB;
+  margin-top: 6px;
+  margin-bottom: 6px;
 }
 
 button { 
   background-color: #3882F6;
-  padding-left: 1em;
-  padding-right: 1em;
+  padding-left: 1.5em;
+  padding-right: 1.5em;
   padding-top:.5em;
   padding-bottom: .5em;
   color:#F9FAF8;
   border: none;
   border-radius: .5em;
+  margin-top: 6px;
+  margin-bottom: 6px;
+  font-size: 14px;
 }
 
 .cards-container {
