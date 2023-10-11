@@ -126,5 +126,7 @@ button {
 }
 
 .cards-container {
-  flex-direction: column;
+  display: flex;
+  justify-content: center;
+  gap: 18px;
 }
