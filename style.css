@@ -107,7 +107,10 @@ h3 {
 }
 
 .hero-content {
-  padding: 48px
+  padding: 48px;
+  padding-left: 10em;
+  padding-right: 10em;
+  flex-wrap: wrap;
 }
 
 .hero-subtext {
