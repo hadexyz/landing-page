@@ -117,6 +117,7 @@ h3 {
   color: #E5E7EB;
   margin-top: 6px;
   margin-bottom: 6px;
+  justify-content: flex-start;
 }
 
 button { 
