@@ -144,7 +144,7 @@ button {
 .cards-container {
   display: flex;
   justify-content: center;
-  gap: 18px;
+  gap: 28px;
   flex-wrap: wrap;
 }
 
