@@ -133,6 +133,7 @@ button {
   margin-top: 6px;
   margin-bottom: 6px;
   font-size: 14px;
+  align-self: start;
 }
 
 .cards-container {
@@ -154,4 +155,10 @@ img {
 
 .cards-heading {
   padding: 16px;
+}
+
+.hero-content .flex-container-column {
+  display: flex;
+  flex-direction:column;
+  justify-content: center;
 }
