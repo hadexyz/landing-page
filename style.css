@@ -204,3 +204,18 @@ img {
 .cards-content {
   padding-bottom: 64px;
 }
+
+.signup-content{
+  display: flex;
+  justify-content: center;
+}
+
+.signup-box{
+  display: flex;
+  background-color: #3882F6;
+  padding: 24px;
+}
+
+.signup-box button {
+  border: #E5E7EB solid;
+}
