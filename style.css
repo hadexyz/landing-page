@@ -141,7 +141,6 @@ button {
   justify-content: center;
   gap: 18px;
   flex-wrap: wrap;
-  padding-bottom: 48px;
 }
 
 img {
@@ -156,7 +155,8 @@ img {
 }
 
 .cards-heading {
-  padding: 16px;
+  padding: 32px;
+  font-size: 32px;
 }
 
 .hero-content .flex-container-column {
@@ -199,4 +199,8 @@ img {
   font-size: 24px;
   font-weight: bold;
   color: #1F2937;
+}
+
+.cards-content {
+  padding-bottom: 64px;
 }
