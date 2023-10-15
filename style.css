@@ -174,3 +174,22 @@ img {
 .cards p {
 
 }
+
+.quote-content {
+  display: flex;
+  flex-direction: column;
+  background-color: #e5e7eb;
+  padding: 96px;
+  padding-left: 256px;
+  padding-right: 256px;
+}
+
+#quote {
+  font-size: large;
+  display: flex;
+  justify-content: center;
+}
+
+#quote-author {
+  align-self: flex-end;
+}
