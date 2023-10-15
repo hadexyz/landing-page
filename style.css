@@ -140,6 +140,8 @@ button {
   display: flex;
   justify-content: center;
   gap: 18px;
+  flex-wrap: wrap;
+  padding-bottom: 48px;
 }
 
 img {
