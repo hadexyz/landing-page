@@ -134,6 +134,7 @@ button {
   margin-bottom: 6px;
   font-size: 14px;
   align-self: start;
+  white-space: nowrap;
 }
 
 .cards-container {
@@ -214,8 +215,20 @@ img {
   display: flex;
   background-color: #3882F6;
   padding: 24px;
+  border-radius: 8px;
+  color: white;
+  margin-top: 48px;
+  margin-bottom: 48px;
+  flex: 1;
+  justify-content: space-around;
+  margin-left: 20%;
+  margin-right: 20%;
 }
 
 .signup-box button {
-  border: #E5E7EB solid;
+  border: #E5E7EB solid 2px;
+}
+
+.signup-box h3 {
+  justify-content: flex-start;
 }
