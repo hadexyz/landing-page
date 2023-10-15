@@ -143,3 +143,10 @@ button {
 img {
   width: 312px;
 }
+
+.cards img {
+
+  width: 256px;
+  flex: 1;
+
+}
