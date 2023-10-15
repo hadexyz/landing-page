@@ -98,6 +98,7 @@ h2{
   display: flex;
   justify-content: center;
   align-items: center;
+
 }
 
 h3 {
@@ -149,4 +150,8 @@ img {
   width: 256px;
   flex: 1;
 
+}
+
+.cards-heading {
+  padding: 16px;
 }
