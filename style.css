@@ -150,6 +150,8 @@ img {
 
   width: 256px;
   flex: 1;
+  border: #3882F6 solid;
+  border-radius:20px;
 
 }
 
@@ -162,3 +164,4 @@ img {
   flex-direction:column;
   justify-content: center;
 }
+
