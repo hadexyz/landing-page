@@ -179,17 +179,24 @@ img {
   display: flex;
   flex-direction: column;
   background-color: #e5e7eb;
-  padding: 96px;
   padding-left: 256px;
   padding-right: 256px;
+  padding-top: 96px;
+  padding-bottom: 96px;
 }
 
 #quote {
-  font-size: large;
+  font-size: 48px;
   display: flex;
   justify-content: center;
+  font-weight:lighter;
+  color: #1F2937;
 }
 
 #quote-author {
-  align-self: flex-end;
+  display: flex;
+  justify-content: flex-end;
+  font-size: 24px;
+  font-weight: bold;
+  color: #1F2937;
 }
