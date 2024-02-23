@@ -4,6 +4,14 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script>
+      window.onload = function() {
+          if (screen.width < 650) {
+              var mvp = document.getElementById('vp');
+              mvp.setAttribute('content','width=650');
+          }
+      }
+    </script>
     <title>Landing page</title>
     <link rel="stylesheet" href="style.css">
   </head>
